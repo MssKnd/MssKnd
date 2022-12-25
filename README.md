@@ -12,12 +12,12 @@
 
 # Hi there, I'm Masashi Kondo
 
-- I’m currently working as a software developer.
-- I passionate facilitaion and scram master.
+- 🧑🏻‍💻 I’m currently working as a software developer.
+- 🏉 I passionate facilitaion and scram master.
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=MssKnd&count_private=true&show_icons=true&count_private=true&theme=transparent" width="42%"> -->
 
-## Speaking
+## 🗣 Speaking
 - Dec 2022: GDG DevFest 2020 Tokyo, **Angular Elements を用いた Web Components 製 UIライブラリの提供**
 <a href="https://www.youtube.com/watch?v=8ZNOyPwKWTc" target="blank" style="text-align: center;"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gdg" height="16" width="16" /></a>
 <a href="https://tokyo.gdgjapan.org/devfest2020/schedule/1/121">📝</a>
@@ -27,10 +27,10 @@
   </g>
 </svg></a>
 
-## Coverage Articles
+## 🎙 Coverage Articles
 - [「顔認証」サービスを市場に合うコストに　-「Safie Visitors」開発インタビュー](https://safie.co.jp/news/802/)
 
-## Articles
+## 📝 Articles
 - [50分のふりかえり（スプリント・レトロスペクティブ）の議論時間を 2 倍に改善した話](https://zenn.dev/loglass/articles/e003bcf5338136)
 - [render hooks パターンの素振り](https://zenn.dev/mssknd/articles/1046a44b9d9502)
 - [ソフトウェアアーキテクト勉強会の紹介](https://engineers.safie.link/entry/2020/06/09/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%E5%8B%89%E5%BC%B7%E4%BC%9A%E3%81%AE%E7%B4%B9%E4%BB%8B)
