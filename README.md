@@ -21,11 +21,11 @@
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=MssKnd&count_private=true&show_icons=true&count_private=true&theme=transparent" width="42%"> -->
 
 ## 🗣 Speaking
-- Dec 2020: GDG DevFest 2020 Tokyo, **Angular Elements を用いた Web Components 製 UIライブラリの提供**
+- Dec 2020: GDG DevFest 2020 Tokyo, **Angular Elements を用いた Web Components 製 UIライブラリの提供（Japanese）**
 <a href="https://www.youtube.com/watch?v=8ZNOyPwKWTc" target="blank" style="text-align: center;"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gdg" height="16" width="16" /></a>
 <a href="https://tokyo.gdgjapan.org/devfest2020/schedule/1/121">📝</a>
 <a href="https://speakerdeck.com/mssknd/angular-elements-woyong-ita-web-components-zhi-uiraiburarifalseti-gong">slide</a>
-- Oct 2019: Classi Angular Night #4, **Safie の Lazy Loading 事例について** [slide](https://docs.google.com/presentation/d/1CFRfniVu-SukGGWIEuEv7h5jd9766RrbSECEUP4JTM8/edit?usp=sharing)
+- Oct 2019: Classi Angular Night #4, **Safie の Lazy Loading 事例について（Japanese）** [slide](https://docs.google.com/presentation/d/1CFRfniVu-SukGGWIEuEv7h5jd9766RrbSECEUP4JTM8/edit?usp=sharing)
 
 ## 🎙 Coverage Articles
 - [「顔認証」サービスを市場に合うコストに　-「Safie Visitors」開発インタビュー](https://safie.co.jp/news/802/)
