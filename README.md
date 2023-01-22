@@ -2,9 +2,9 @@
   <a href="https://github.com/mssknd/mssknd/">
     <img src="https://komarev.com/ghpvc/?username=mssknd" alt="mssknd" />
   </a>
-  <a href="http://twitter.com/mssknd">
+<!--   <a href="http://twitter.com/mssknd">
     <img height="20" src="https://img.shields.io/twitter/follow/mssknd?label=Twitter&logo=twitter&style=flat" />
-  </a>
+  </a> -->
   <!-- <a href="https://github.com/mssknd">
     <img height="20" src="https://img.shields.io/github/followers/mssknd?label=follow&logo=github&style=flat" />
   </a> -->
@@ -17,6 +17,7 @@
 
 - 🧑🏻‍💻 I’m currently working as a software developer.
 - 🏉 I passionate facilitaion and scram master.
+- 🧑‍🏫 My "16 Personalities" is [Protagonist (ENFJ)](https://www.16personalities.com/enfj-personality).
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=MssKnd&count_private=true&show_icons=true&count_private=true&theme=transparent" width="42%"> -->
 
