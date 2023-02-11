@@ -30,6 +30,7 @@
 
 ## 🎙 Coverage Articles
 - [「顔認証」サービスを市場に合うコストに　-「Safie Visitors」開発インタビュー](https://safie.co.jp/news/802/)
+  - English ver: ["Face recognition" service at a cost that matches the market - "Safie Visitors" development interview](https://safie-co-jp.translate.goog/news/802/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp)
 
 ## 📝 Articles
 - [50分のふりかえり（スプリント・レトロスペクティブ）の議論時間を 2 倍に改善した話](https://zenn.dev/loglass/articles/e003bcf5338136)
