@@ -35,6 +35,7 @@
 ## 📝 Articles
 - [50分のふりかえり（スプリント・レトロスペクティブ）の議論時間を 2 倍に改善した話](https://zenn.dev/loglass/articles/e003bcf5338136)
 - [render hooks パターンの素振り](https://zenn.dev/mssknd/articles/1046a44b9d9502)
+  - English ver: [React: Practice of render-hooks pattern](https://dev.to/mssknd/react-practice-of-render-hooks-pattern-2kc3)
 - [ソフトウェアアーキテクト勉強会の紹介](https://engineers.safie.link/entry/2020/06/09/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%E5%8B%89%E5%BC%B7%E4%BC%9A%E3%81%AE%E7%B4%B9%E4%BB%8B)
 
 
