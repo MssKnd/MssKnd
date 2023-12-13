@@ -21,7 +21,7 @@
 
 Hi, I'm Masa, a software engineer specializing in web front-end development.
 
-Currently, I am actively seeking new job opportunities and have also started working as a full-stack freelance engineer.
+Currently, I am actively seeking new job opportunities, while I have also started working as a full-stack freelance engineer.
 
 Before this, I spent about four years as a software engineer at a venture company, where my primary focus was on developing a video streaming service.
 
