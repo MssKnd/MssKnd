@@ -43,7 +43,7 @@ As a Software Engineer specializing in Web Frontend, I solve technical challenge
 **Kyushu University**  
 *April 2011 – March 2013*
 
-### Bachelor of Science in Information Technology
+### Bachelor of Science in Information Technology (Equivalent to Computer Science)
 **Kumamoto National College of Technology**  
 *April 2009 – March 2011*
 
