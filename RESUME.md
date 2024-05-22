@@ -4,15 +4,11 @@
 **LinkedIn:** [Masashi Kondo](https://www.linkedin.com/in/masashi-kondo)  
 **GitHub:** [MssKnd](https://github.com/MssKnd)  
 
----
-
-## Summary
+## 🙂 Summary
 
 Experienced software engineer with a decade of expertise in developing web applications using TypeScript, Angular, React, and Vue.js. Skilled in backend development, Web standard API, and CI/CD with GitHub Actions. Certified AWS Solutions Architect. Speaker at GDG DevFest 2020 Tokyo.
 
----
-
-## Experience
+## 💼 Experience
 
 ### CEO / Software Engineer
 **Rokka LLC** - Kumamoto, Japan  
@@ -38,9 +34,7 @@ Experienced software engineer with a decade of expertise in developing web appli
 - Maintained dedicated line systems and developed web applications.
 - Designed and implemented international VPN and network systems.
 
----
-
-## Education
+## 📚 Education
 
 ### Master of Kansei Science
 **Kyushu University**  
@@ -50,27 +44,21 @@ Experienced software engineer with a decade of expertise in developing web appli
 **Kumamoto National College of Technology**  
 *April 2009 – March 2011*
 
----
-
-## Skills
+## 🛠️ Skills
 
 - **Programming Languages:** TypeScript, Deno, JavaScript, Kotlin
 - **Frameworks & Libraries:** React, Hono, Angular, Vue.js
 - **Tools & Platforms:** Git, GitHub Actions, AWS, Supabase
 - **Other Skills:** Web Standard API, DDD, Agile methodologies
 
----
-
-## Certifications
+## 🎖️ Certifications
 
 - **AWS Certified Solutions Architect – Associate**
 - **Network Specialist**
 - **Applied Information Technology Engineer**
 - **ITIL FOUNDATION V3**
 
----
-
-## Languages
+## 🗣️ Languages
 
 - **Japanese:** Native
 - **English:** Elementary
