@@ -6,29 +6,32 @@
 
 ## 🙂 Summary
 
-Experienced software engineer with a decade of expertise in developing web applications using TypeScript, Angular, React, and Vue.js. Skilled in backend development, Web standard API, and CI/CD with GitHub Actions. Certified AWS Solutions Architect. Speaker at GDG DevFest 2020 Tokyo.
+As a Software Engineer specializing in Web Frontend, I solve technical challenges and ensure development needs align with business goals. With a decade of experience, I excel in TypeScript and React. Skilled in backend development, Web Standard API, and CI/CD with GitHub Actions. I facilitate team communication and productivity, leading teams to higher efficiency. Certified AWS Solutions Architect and speaker at GDG DevFest 2020 Tokyo.
 
 ## 💼 Experience
 
-### CEO / Software Engineer
+### CEO / Software Engineer (Self-employed)
 **Rokka LLC** - Kumamoto, Japan  
 *June 2022 – Present*
 
-- Develop SaaS products for startups.
-- Design high-cohesion, loosely-coupled systems.
-- Lead teams as Scrum Master.
+- Developed SaaS products for startups, focusing on high-cohesion, loosely-coupled systems.
+- Designed and implemented a comprehensive Design System to ensure consistency and efficiency in UI/UX.
+- Addressed performance issues related to displaying and manipulating large datasets in web front-end applications.
+- Enhanced Scrum events' efficiency and visualized development productivity to ensure continuous improvement.
+- Led teams as Scrum Master, facilitating growth and achieving development goals.
+
 
 ### Software Engineer / Web Frontend
 **Safie Inc.** - Tokyo, Japan  
 *December 2018 – March 2022*
 
-- Developed a cloud-based video viewer with Angular for IOT camera service.
+- Developed a cloud-based video viewer with Angular for IoT camera services.
 - Integrated machine learning with network camera images.
 - Developed a canvas drawing application for image annotation.
-- Presented at GDG Dev Fest 2020 Tokyo.
+- Presented at GDG DevFest 2020 Tokyo.
 
 ### Information Communication Technology Engineer
-**SoftBank** - Tokyo, Japan  
+**SoftBank Corp.** - Tokyo, Japan  
 *July 2013 – December 2018*
 
 - Maintained dedicated line systems and developed web applications.
@@ -48,8 +51,8 @@ Experienced software engineer with a decade of expertise in developing web appli
 
 - **Programming Languages:** TypeScript, Deno, JavaScript, Kotlin
 - **Frameworks & Libraries:** React, Hono, Angular, Vue.js
-- **Tools & Platforms:** Git, GitHub Actions, AWS, Supabase
-- **Other Skills:** Web Standard API, DDD, Agile methodologies
+- **Tools & Platforms:** Git, GitHub Actions, AWS, Supabase, PostgreSQL
+- **Other Skills:** Web Standard API, DDD, Agile methodologies, Network technology
 
 ## 🎖️ Certifications
 
