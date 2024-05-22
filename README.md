@@ -15,17 +15,15 @@
 
 # Hi there, I'm Masashi Kondo
 
-- 🧑🏻‍💻 I’m currently working as a software developer.
-- 🏉 I am a passionate facilitation and scrum master.
-- 🧑‍🏫 My "16 Personalities" is [Protagonist (ENFJ)](https://www.16personalities.com/enfj-personality).
+- 🧑🏻‍💻 Currently working as a software developer.
+- 🏉 Passionate facilitator and Scrum Master.
+- 🧑‍🏫 My personality type is [Protagonist (ENFJ)](https://www.16personalities.com/enfj-personality).
 
 Hi, I'm Masa, a software engineer specializing in web front-end development.
 
-Currently, I am actively seeking new job opportunities, while I have also started working as a full-stack freelance engineer.
+**[Check out my Resume](https://github.com/MssKnd/MssKnd/blob/main/RESUME.md)**
 
-Before this, I spent about four years as a software engineer at a venture company, where my primary focus was on developing a video streaming service.
-
-My career began as a network engineer at a telecommunications company in Japan, where I dedicated five years to maintaining and building services such as IP-VPN leased lines.
+I'm actively seeking new job opportunities and working as a full-stack freelance engineer. Previously, I spent four years developing a video streaming service at a venture company and five years as a network engineer at a telecommunications company in Japan, focusing on IP-VPN leased lines.
 
 I'm enthusiastic about leveraging my diverse experience in my next role.
 
