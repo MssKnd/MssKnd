@@ -51,7 +51,7 @@ As a Software Engineer specializing in Web Frontend, I solve technical challenge
 
 - **Programming Languages:** TypeScript, Deno, JavaScript, Kotlin
 - **Frameworks & Libraries:** React, Hono, Angular, Vue.js
-- **Tools & Platforms:** Git, GitHub Actions, AWS, Supabase, PostgreSQL
+- **Tools & Platforms:** Git, GitHub Actions, Supabase, PostgreSQL, Storybook, AWS
 - **Other Skills:** Web Standard API, DDD, Agile methodologies, Network technology
 
 ## 🎖️ Certifications
