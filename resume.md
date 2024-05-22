@@ -61,11 +61,12 @@ As a Software Engineer specializing in Web Frontend, I solve technical challenge
 - **Applied Information Technology Engineer**
 - **ITIL FOUNDATION V3**
 
+<!--
 ## 🗣️ Languages
 
 - **Japanese:** Native
 - **English:** Elementary
-
+-->
 ---
 
 **References available upon request.**
