@@ -41,6 +41,7 @@ I'm enthusiastic about leveraging my diverse experience in my next role.
   - English ver: ["Face recognition" service at a cost that matches the market - "Safie Visitors" development interview](https://safie-co-jp.translate.goog/news/802/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp)
 
 ## 📝 Articles
+- [Rethinking Design Systems for Developer Experience](https://medium.com/@masashi.kondo/beyond-aesthetics-rethinking-design-systems-for-developer-experience-ff60f4c68448)
 - [50分のふりかえり（スプリント・レトロスペクティブ）の議論時間を 2 倍に改善した話](https://zenn.dev/loglass/articles/e003bcf5338136)
 - [render hooks パターンの素振り](https://zenn.dev/mssknd/articles/1046a44b9d9502)
   - English ver: [React: Practice of render-hooks pattern](https://dev.to/mssknd/react-practice-of-render-hooks-pattern-2kc3)
