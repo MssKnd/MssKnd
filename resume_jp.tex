@@ -1,0 +1,162 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\large{
+    {#1 \vspace{0pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+
+\usepackage{array}
+
+% Define a custom column type
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}} % left-aligned column with fixed width
+\newcolumntype{R}{>{\raggedright\arraybackslash}X}       % right-aligned column, auto width
+
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape 近藤 昌史} \\ \vspace{1pt}
+    \textbf{\Large \scshape シニアソフトウェアエンジニア} \\
+    (000)-000-0000 $|$ Vancouver, British Columbia, Canada \\
+    \href{https://linkedin.com/in/masashi-kondo}{\underline{linkedin.com/in/masashi-kondo}} $|$
+    \href{https://github.com/MssKnd}{\underline{github.com/MssKnd}}
+\end{center}
+
+%-----------SUMMARY-----------
+\section{概要}
+ソフトウェアエンジニアとして10年以上の経験を持ち、特にWebフロントエンドを専門としています。技術的な課題を解決し、開発のニーズがビジネス目標と合致するように調整します。TypeScriptとReactを得意とし、バックエンド開発、Web標準API、GitHub Actionsを活用したCI/CDにも精通しています。チームのコミュニケーションと生産性を向上させ、チームの効率を高めるリーダーシップを発揮します。GDG DevFest 2020 Tokyoで登壇経験あり。
+
+%-----------EXPERIENCE-----------
+\section{職務経験}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {CEO / ソフトウェアエンジニア（個人事業主）}{2022年06月 -- 現在}
+      {合同会社 Rokka}{熊本、日本}
+      \resumeItemListStart
+        \resumeItem{スタートアップ向けの SaaS 製品を開発し、高凝集・低結合のシステム設計に注力。}
+        \resumeItem{UI/UX の一貫性と DX のためのデザインシステムを設計・実装。}
+        \resumeItem{Web フロントエンドアプリケーションで、大量データの表示・操作に関するパフォーマンス問題を改善。メモリ効率を向上させ、レンダリング時間を 1 分から 5 秒に短縮。}
+        \resumeItem{スクラムマスターとして、スクラムイベントの効率を向上。会議の生産性を2倍にし、フィードバックサイクルを改善することで、チーム全体の生産性を 20\% 向上させた。}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {ソフトウェアエンジニア / Web フロントエンドエンジニア}{2018年12月 -- 2022年03月}
+      {セーフィー株式会社}{東京、日本}
+      \resumeItemListStart
+        \resumeItem{IoT カメラサービスのための録画映像ビューアを Angular で開発}
+        \resumeItem{ネットワークカメラの映像に機械学習を統合し、画像アノテーションのためのキャンバス描画アプリケーションを開発}
+        \resumeItem{開発チームが 2 人から 6 人に成長する中で、スクラムの導入を主導。ベロシティのトラッキングと可視化を行い、開発プロセスを安定化。}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {ネットワークエンジニア}{2013年04月 -- 2018年12月}
+      {ソフトバンク株式会社}{東京、日本}
+      \resumeItemListStart
+        \resumeItem{専用線システムの保守およびWebアプリケーションの開発を担当}
+        \resumeItem{国際拠点間の VPN を利用した業務システムを2ヶ月で設計・導入}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------
+\section{学歴}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {感性科学 修士課程}{2011年04月 -- 2013年03月}
+      {九州大学大学院}{}
+    \resumeSubheading
+      {情報科学（コンピュータサイエンス相当）学士課程}{2009年04月 -- 2011年03月}
+      {熊本高等専門学校}{}
+  \resumeSubHeadingListEnd
+  
+%-----------SKILLS-----------
+\section{スキル}
+  \setlength{\leftskip}{0.15in}
+  \begin{tabularx}{\dimexpr\textwidth-0.15in\relax}{L{2.18in} R}
+    \textbf{開発言語:} & TypeScript, Deno, JavaScript, Kotlin, HTML/CSS \\
+    \textbf{フレームワーク・ライブラリ:} & React, Angular, Vue.js, Next.js, jest, Storybook, Playwright, Spring boot \\
+    \textbf{ツール・プラットフォーム:} & Git, GitHub Actions, Node.js, Supabase, PostgreSQL, Figma, Docker, AWS \\
+    \textbf{その他:} & Web Standard API, DDD, Secure cording, Agile methodologies, accessibility standards (WCAG), Network Security
+  \end{tabularx}
+
+%-----------CERTIFICATIONS-----------
+\section{Certifications}
+\begin{tabularx}{\textwidth}{L{4in}@{\hskip 1em}R}
+  \textbf{・ AWS Certified Solutions Architect - Associate} & \textbf{・ ネットワークスペシャリスト} \\
+  \textbf{・ 応用情報技術者} & \textbf{・ ITIL FOUNDATION V3}
+\end{tabularx}
+
+\end{document}
