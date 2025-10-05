@@ -1,0 +1,8 @@
+# IntelliJ IDEA
+.idea/
+
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.synctex.gz

@@ -21,7 +21,7 @@
 
 Hi, I'm Masa, a software engineer specializing in web front-end development.
 
-**[Check out my Resume](https://github.com/MssKnd/MssKnd/blob/main/resume.pdf)**
+**[Check out my Resume](https://github.com/MssKnd/MssKnd/blob/main/out/resume.pdf)**
 
 I'm actively seeking new job opportunities and working as a full-stack freelance engineer. Previously, I spent four years developing a video streaming service at a venture company and five years as a network engineer at a telecommunications company in Japan, focusing on IP-VPN leased lines.
 
